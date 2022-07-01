@@ -461,7 +461,7 @@ def list_weather():
 
     for city in cities:
         res =weather_city(city.name)
-        print(res)
+        # print(res)
         # import pdb
         # pdb.set_trace()
 
