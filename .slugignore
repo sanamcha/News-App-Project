@@ -2,6 +2,7 @@
 *.psd
 *.pdf
 *.whl
+.whl
 /test
 /spec
 torch
